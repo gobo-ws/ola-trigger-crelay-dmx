@@ -1,6 +1,6 @@
 **OLA Trigger config to control relays with DMX (ArtNet, sACN or via DMX input)**
 
-OLA trigger configuration for controlling relays using crelay.
+Configuration for controlling relays using crelay.
 
 **Requirements**  
 
