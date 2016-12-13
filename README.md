@@ -15,8 +15,9 @@ OLA trigger configuration for controlling relays using crelay.
 
 [OLA trigger documentation] (https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
-**Usage**  
-Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
+**Usage**
+
+* Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
 The config file is provided on the command line:
 
 `ola_trigger crelay.conf`
