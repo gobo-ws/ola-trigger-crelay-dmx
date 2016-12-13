@@ -4,9 +4,9 @@ OLA trigger configuration for controlling relays using crelay.
 
 **Requirements**  
 
-* OLA https://www.openlighting.org/ola/
-* curl https://curl.haxx.se/
-* crelay https://github.com/ondrej1024/crelay/
+* [OLA] (https://www.openlighting.org/ola/)
+* [curl] (https://curl.haxx.se/)
+* [crelay] (https://github.com/ondrej1024/crelay/)
 * one or more relays supported by crelay
 
 **Installation**
