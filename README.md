@@ -4,15 +4,15 @@ Configuration for controlling USB or GPIO relays using crelay.
 
 **Requirements**  
 
-* [OLA] (https://www.openlighting.org/ola/)
-* [curl] (https://curl.haxx.se/)
-* [crelay] (https://github.com/ondrej1024/crelay/)
+* [OLA](https://www.openlighting.org/ola/)
+* [curl](https://curl.haxx.se/)
+* [crelay](https://github.com/ondrej1024/crelay/)
 
 **Installation**
   
 * Download the [crelay.conf] (crelay.conf) file and edit the configuration section.
 
-[OLA trigger documentation] (https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
+[OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
 **Usage**
 
