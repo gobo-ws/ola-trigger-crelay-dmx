@@ -1,4 +1,4 @@
-**OLA Trigger config to control relays with DMX (ArtNet, sACN or via DMX input)**
+**OLA Trigger config to control relays with DMX (Art-Net, sACN or via DMX input)**
 
 Configuration for controlling USB or GPIO relays using crelay.
 
